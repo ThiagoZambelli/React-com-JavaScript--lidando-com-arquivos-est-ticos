@@ -43,3 +43,13 @@
 - Como organizar e usar variáveis css;
 - Como configurar os arquivos de fontes no projeto ;
 - Como importar essas fontes usando o @fontface
+
+## Aula 4:
+>(Aula muito complica pela dinamica do professor)
+
+- Como criar o componente de Tags e o de Galeria;
+- Utilizar o map para percorrer o arquivo de dados e renderizar as imagens;
+- Quando utilizar a pasta public;
+- Como criar o componente de Card;
+- As vantagens de componentizar a aplicação em diferentes níveis;
+- Como criar o componente para exibir imagens populares.
