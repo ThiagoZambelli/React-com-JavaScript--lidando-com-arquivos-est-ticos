@@ -1,4 +1,5 @@
 ![Alt text](src/componentes/Cabecalho/logo.png)
+![Alt text](public/imagens-do-projeto/1.png)
 <h1 align='center'>Projeto React Js: arquivos estáticos </h1>
 
 # Projeto Realizado por [Thiago Zambelli](https://www.linkedin.com/in/thiagozambelli)
@@ -12,6 +13,22 @@
  - Lidar com arquivos de fontes e imagens;
  - Utilizar o react com um pré-processador css, o Sass.
  - [Figma do Projeto AluraSpace](https://www.figma.com/file/Y1W8HJHKqlUdDFeWi8e4cz/Alura-Space-%7C-React%3A-arquivos-est%C3%A1ticos?node-id=89%3A4&t=CeKGH5bb81l9m8FD-0)
+
+# Algumas das etapas do projeto foram:
+
+- O `Header`
+> ![Alt text](public/imagens-do-projeto/header.png)
+
+- O `Body` da aplicação, com um carregamento dinamico das imagens criando uma 'Galeria', e gerando tags resposnsaveis por filtrar a pagina
+> ![Alt text](public/imagens-do-projeto/body.png)
+
+- O menu
+> ![Alt text](public/imagens-do-projeto/menu.png)
+
+- O `Footer`
+> ![Alt text](public/imagens-do-projeto/footer.png)
+
+
 
  
 ## Aula 1: 
@@ -53,3 +70,12 @@
 - Como criar o componente de Card;
 - As vantagens de componentizar a aplicação em diferentes níveis;
 - Como criar o componente para exibir imagens populares.
+
+## Aula 5:
+
+- Como criar filtros de ordenação de imagens por Tag;
+- Boas práticas de código;
+- Como controlar estados e utilizar props em componentes;
+- Como usar mixins para reaproveitamento de código e responsividade da página;
+- As vantagens de utilizar absolute imports e como configurar caminhos absolutos;
+- Como fazer o deploy da aplicação na vercel.
