@@ -16,6 +16,7 @@
  
 ## Aula 1: 
 > (Nota Mental: `%PUBLIC_URL%` faz referência ao arquivo chamandoo para as pasta de copilação)
+
 - Iniciar o projeto com create-react-app;
 - Limpar arquivos desnecessários;
 - Criar uma estrutura de pastas dentro de src;
@@ -23,3 +24,14 @@
 - Importar imagens estáticas no React;
 - Instalar o Sass no projeto;
 - Vantagens de usar CSS modules.
+
+## Aula 2:
+> (Nota Mental: Aprender urgentemente `SCSS`)
+
+- Criar o componente de Menu e boas práticas de organização de pastas ;
+- Como importar as imagens de ícones;
+- A importância de manter um padrão de nomenclatura de classes;
+- A escrever um HTML semântico;
+- Inserir o banner da página;
+- Utilizar o import da forma correta como sugere a documentação;
+- O que é e como usar a extensão React Snippets.
