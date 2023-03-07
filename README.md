@@ -35,3 +35,11 @@
 - Inserir o banner da página;
 - Utilizar o import da forma correta como sugere a documentação;
 - O que é e como usar a extensão React Snippets.
+
+## Aula 3:
+
+- Adicionar os arquivos GlobalStyle.scss e _variaveis.scss;
+- Como usar o normalize.css;
+- Como organizar e usar variáveis css;
+- Como configurar os arquivos de fontes no projeto ;
+- Como importar essas fontes usando o @fontface

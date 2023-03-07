@@ -1,0 +1,28 @@
+@import "../../style/variaveis";
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 24px;
+    background-color: $azul-rodape;
+    
+
+    &__nav{
+        display: flex;
+        column-gap: 1rem;
+        align-items: center;
+    }
+
+    &__copyright{
+        font-size: 16px;
+        font-family: $fonte-normal;
+        color: $cor-do-texto;
+        
+    }
+    &__a{
+        text-decoration: none;
+        color: $cor-do-texto;
+        font-family: $fonte-normal;
+    }
+}
